@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PuppyRescue</string>
+    <string name="dog_name">Name</string>
+    <string name="dog_breed">Breed</string>
+    <string name="dog_gender">Gender</string>
+    <string name="dog_age">Age</string>
+    <string name="btn_Save">Save</string>
+    <string name="btn_addNewDog">New Dog</string>
+</resources>

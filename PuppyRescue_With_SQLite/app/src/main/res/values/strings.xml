@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PuppyRescue</string>
+    <string name="dog_name">Name</string>
+    <string name="dog_breed">Breed</string>
+    <string name="dog_gender">Gender</string>
+    <string name="dog_age">Age</string>
+    <string name="btn_Save">SAVE</string>
+    <string name="btn_Delete">DELETE</string>
+    <string name="btn_Email">EMAIL</string>
+    <string name="btn_addNewDog">New Dog</string>
+    <string name="new_puppy">New Puppy</string>
+    <string name="btn_ShowMap">MAP</string>
+    <string name="btn_SetLocation">SET LOCATION</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
